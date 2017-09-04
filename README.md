@@ -386,9 +386,7 @@ Re-upload the contents of your `build` directory, and all your pages should load
 To make sure this file gets redirected each time we build our app, we can update our `build` script in `package.json`:
 
 ```
-...
-  "build": "react-scripts build && echo '/*    /index.html   200' > build/_redirects",
-...
+"build": "react-scripts build && echo '/*    /index.html   200' > build/_redirects"
 ```
 
 ## Wrap Up
