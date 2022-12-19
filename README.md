@@ -8,6 +8,23 @@ In this tutorial we are going to show you how to build a serverless, SEO-friendl
 
 [ButterCMS](https://buttercms.com) is a proprietary API-based CMS and content API that lets you build CMS-powered apps using any programming language. Butter lets you manage content using their dashboard and integrate it into your front-end of choice with their API – you can think of Butter as similar to Netlify CMS except that your content is managed in an external API rather than stored in Git.
 
+## Important Notice
+This project was created as an example use case of ButterCMS in conjunction with a blog article, [How to Build a Serverless, SEO-Friendly React Blog With Netlify](https://buttercms.com/blog/serverless-react-blog-tutorial/), and will not be actively maintained. 
+
+If you’re interested in exploring the best, most up-to-date way to integrate Butter into javascript frameworks like React, you can check out the following resources:
+
+### Starter Projects
+
+The following turn-key starters are fully integrated with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.
+- [React Starter](https://buttercms.com/starters/react-starter-project/)
+- [Angular Starter](https://buttercms.com/starters/angular-starter-project/)
+- [Vue.js Starter](https://buttercms.com/starters/vuejs-starter-project/)
+- Or see a list of all our [currently-maintained starters](https://buttercms.com/starters/). (Over a dozen and counting!)
+
+### Other Resources
+- Check out the [official ButterCMS Docs](https://buttercms.com/docs/)
+- Check out the [official ButterCMS API docs](https://buttercms.com/docs/api/)
+
 ## Getting Started
 
 We'll use the [Create React App](https://github.com/facebookincubator/create-react-app) starter kit.
